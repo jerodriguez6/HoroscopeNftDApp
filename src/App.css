@@ -1,5 +1,16 @@
 .App {
+  min-height: 100vh;
   text-align: center;
+  background-image: url(./images/block.jpg);
+}
+
+.App button {
+  background-color: rgb(45, 63, 228);
+  width: 10%;
+  height: 40px;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  font-size: 15px;
 }
 
 .App-logo {
